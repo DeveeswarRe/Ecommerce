@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Company Information */}
           <div>
-            <h3 className="text-xl font-semibold mb-4">ELEGANCE</h3>
+            <h3 className="text-xl font-semibold mb-4">DevMart</h3>
             <p className="text-neutral-300 mb-4">
               Premium dress boutique offering elegant and stylish clothing for every occasion.
             </p>
@@ -72,7 +72,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-2 text-primary-400" />
-                <span className="text-neutral-300">hello@elegance.com</span>
+                <span className="text-neutral-300">hello@DevMart.com</span>
               </li>
             </ul>
           </div>
@@ -102,7 +102,7 @@ const Footer: React.FC = () => {
 
         {/* Copyright */}
         <div className="pt-8 border-t border-neutral-800 text-neutral-400 text-sm text-center">
-          <p>© {new Date().getFullYear()} Elegance Boutique. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} DevMart Boutique. All rights reserved.</p>
           <div className="flex justify-center mt-2 space-x-4">
             <Link to="/privacy-policy" className="hover:text-white transition-colors">
               Privacy Policy

@@ -56,7 +56,7 @@ const Header: React.FC<HeaderProps> = ({ toggleSideCart }) => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="text-2xl font-bold text-primary-700 flex items-center">
-            ELEGANCE
+            DevMart
           </Link>
 
           {/* Desktop Navigation */}

@@ -14,7 +14,7 @@ const CategorySection: React.FC = () => {
       id: "casual",
       name: "Casual Wear",
       image: "https://images.pexels.com/photos/972995/pexels-photo-972995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      description: "Comfortable and stylish pieces for everyday elegance"
+      description: "Comfortable and stylish pieces for everyday DevMart"
     },
     {
       id: "business",

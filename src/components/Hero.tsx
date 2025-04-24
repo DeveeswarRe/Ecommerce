@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
       <div className="relative container-custom min-h-[85vh] flex flex-col justify-center py-16">
         <div className="max-w-xl md:max-w-2xl">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-light mb-4 tracking-tight">
-            Elegance in <span className="font-semibold">Every</span> <br />
+            DevMart in <span className="font-semibold">Every</span> <br />
             <span className="font-semibold text-accent-400">Stitch</span>
           </h1>
           
